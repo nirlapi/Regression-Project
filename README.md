@@ -1,6 +1,6 @@
 # House Prices: Advanced Regression Techniques
 
-**Authors:** Shiri Goniman & Nir Lapidot  
+**Authors:** Shiri Guniman & Nir Lapidot  
 **Kaggle Profile:** [nirlapidot](https://www.kaggle.com/nirlapidot)
 
 ## 📌 Project Overview
