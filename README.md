@@ -18,7 +18,6 @@ We performed extensive Exploratory Data Analysis (EDA) and data cleaning to prep
 * **Handling Missing Values:** Based on our methodology, we established a strict **10% threshold** for missing data. Instead of imputing heavily missing data or dropping rows, we dropped columns with >10% missing values. 
   * *Dropped Features:* `LotFrontage`, `Alley`, `MasVnrType`, `FireplaceQu`, `PoolQC`, `Fence`, and `MiscFeature`.
 * **Feature Engineering:** Utilized `Scikit-Learn` pipelines, `OneHotEncoder`, `OrdinalEncoder`, `MinMaxScaler`, and `StandardScaler`.
-* *Note:* Principal Component Analysis (PCA) was intentionally omitted from this workflow with explicit approval from the course teaching assistant.
 
 ## 🤖 Modeling & Machine Learning
 We trained and evaluated several advanced regression models to find the optimal predictions:
